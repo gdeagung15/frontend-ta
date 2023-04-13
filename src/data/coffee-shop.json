@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Tegu Kopi",
+    "address": "P8GW+XVM, Penelokan Main Rd, Central Batur, Kintamani, Bangli Regency, Bali 80652",
+    "scenery": "Pegunungan",
+    "type": "Modern Coffee Shop",
+    "budget": "Start From 25K - 60K",
+    "imageTop": "/assets/kopi2.JPG",
+    "imageInner": "/assets/kopi-2.JPG"
+  },
+  {
+    "id": 1,
+    "name": "AKASA Kintamani Coffee",
+    "address": "Penelokan Main Rd No.777, Central Batur, Kintamani, Bangli Regency, Bali 80652",
+    "scenery": "Pegunungan",
+    "type": "Modern Coffee Shop",
+    "budget": "Start From 25K - 69K",
+    "imageTop": "/assets/kopi3.JPG",
+    "imageInner": "/assets/kopi-3.JPG"
+  },
+  {
+    "id": 2,
+    "name": "Kopi Bali House",
+    "address": "405 E Pertokoan Graha Niaga Sanur, Jl. Bypass Ngurah Rai No.4, Sanur Kauh, Denpasar Selatan, Kota Denpasar, Bali 80221",
+    "scenery": "Restoran",
+    "type": "Modern Coffee Shop",
+    "budget": "Start From 50K - 150K",
+    "imageTop": "/assets/kopi-1.JPG",
+    "imageInner": "/assets/kopi1.JPG"
+  }
+]
